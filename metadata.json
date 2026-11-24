@@ -1,0 +1,7 @@
+{
+  "name": "Vamos Al Cine",
+  "description": "Cartelera y plataforma editorial de cine con películas en tendencia de TMDB, noticias, recomendaciones personalizadas con IA y autenticación con Google mediante Firebase.",
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
